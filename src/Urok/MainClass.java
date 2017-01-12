@@ -1,0 +1,7 @@
+package Urok;
+
+/**
+ * Created by Pavlovan on 12.01.2017.
+ */
+public class MainClass {
+}
